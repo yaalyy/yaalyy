@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Connor(yaalyy)
 #### Studying Computer science at [UCL](https://www.ucl.ac.uk)🎓  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaalyy&show_icons=true&locale=en&layout=compact" alt="yaalyy" />
 
 ---
 
